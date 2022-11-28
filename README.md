@@ -1,6 +1,8 @@
 I've been getting alot of recommendations/suggestions for plugins. So I thought i'd keep the progress of them public for others to see.
 Note: I work on these randomly (if at all) so if you are waiting for a plugin to use, understand the liklihood of it ever being finished is 1/100.
 
+I work as a software engineer for a space company 40 hours a week, and am currently in the middle of getting my master's degree for software engineering. So any additonal coding I want to do usually goes into this stuff
+
 Tombs of Amascut Point Tracker: Done
 https://github.com/AbusiveTuna/ToA_Points
 
